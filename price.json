@@ -1,0 +1,6 @@
+{
+    "room2F": { "weekday": 8640, "weekend": 10140, "holiday": 15210 },
+    "room2A": { "weekday": 2980, "weekend": 3480, "holiday": 5220 },
+    "room2B": { "weekday": 2780, "weekend": 3280, "holiday": 4920 },
+    "room2C": { "weekday": 2880, "weekend": 3380, "holiday": 5070 }
+}
